@@ -1,6 +1,10 @@
 # BlocksOS
 BlocksOS For Kraken
 
+## warning
+check your version of pop using ```pop version```
+it should say @latest, and then it should say the latest commit id "@latest 2f3a62d" (example, check pop repo for latest commit)
+
 ## Installation
 Use Pop Package Manager to install
 ```
